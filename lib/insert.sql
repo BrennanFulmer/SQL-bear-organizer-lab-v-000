@@ -7,12 +7,3 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES
 ('Grinch', 44, 'F', "purple", "conflicted", 1),
 ('Wendy', 1, 'M', "green", "fine", 1),
 (null, 3, 'M', "eggshell", "angry", 0);
-
-
-
-
-
-
-
-
-
