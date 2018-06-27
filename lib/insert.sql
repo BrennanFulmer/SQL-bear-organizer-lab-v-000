@@ -1,4 +1,4 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES 
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES 
 ('Mr. Chocolate', 19, 'F', "polar", "mixed", 1),
 ('Rowdy', 75, 'M', "brown", "calm", 1),
 ('Tabitha', 6, 'M', "black", "rowdy", 1),
